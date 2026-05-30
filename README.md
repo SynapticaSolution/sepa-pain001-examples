@@ -100,12 +100,14 @@ xmllint --noout --schema pain.001.001.03.xsd examples/pain001-single-sct.xml
 
 ## Related Resources
 
-- [What is a SEPA payment batch (distinta)?](https://synaptica-solution.com/knowledge/distinta-pagamenti-automatica/) — Complete guide to SEPA payment batches
-- [How to import payment files in Italian banks](https://synaptica-solution.com/knowledge/come-importare-distinta-bonifico-in-banca/) — Step-by-step for Intesa, UniCredit, BNL
-- [What is SEPA XML?](https://synaptica-solution.com/knowledge/cos-e-bonifico-sepa-xml/) — ISO 20022 format explained
-- [SEPA Manager](https://synaptica-solution.com/sepa-manager/) — Automate SEPA file generation from invoices
-- [sepa-xml-validator](https://github.com/SynapticaSolution/sepa-xml-validator) — Validate SEPA XML files before upload
-- [Best SEPA payment software 2026](https://synaptica-solution.com/knowledge/migliori-software-bonifici-sepa/) — Comparison guide
+Maintained by **[Synaptica Solution](https://synaptica-solution.com)**, Italian software studio for SME automation.
+
+| If you need… | See… |
+|---|---|
+| Automated pain.001 generation from invoices | [SEPA Manager](https://synaptica-solution.com/sepa-manager/) |
+| Technical guide: SEPA XML structure for Italian banks | [Come generare XML SEPA CBI](https://synaptica-solution.com/knowledge/come-generare-xml-sepa-cbi/) |
+| Difference XML SDI vs XML SEPA | [Differenza XML SDI vs XML SEPA](https://synaptica-solution.com/knowledge/differenza-xml-sdi-xml-sepa/) |
+| All open source tools | [Open Source Hub](https://synaptica-solution.com/open-source/) |
 
 ---
 
